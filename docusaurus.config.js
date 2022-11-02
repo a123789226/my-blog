@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BoXiang Site',
+  title: 'BoXiang Site2',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com',
+  url: 'https://a123789225.github.io',
   baseUrl: '/my-blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
